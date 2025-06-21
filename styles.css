@@ -4,6 +4,10 @@ html, body {
   text-align: center;
 }
 
+submit.send {
+    background-color: grey;
+    }
+
 h1.yellow {
   color: yellow;
 }
