@@ -3,6 +3,6 @@ html, body {
   text-align: center;
 }
 
-form.contact-us submit {
+form.contact-us input.send-email {
     border-radius: 2px;
     }
