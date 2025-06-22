@@ -5,9 +5,5 @@ html, body {
 }
 
 submit.send {
-    background-color: grey;
+    color: grey;
     }
-
-h1.yellow {
-  color: yellow;
-}
