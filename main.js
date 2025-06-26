@@ -1,5 +1,5 @@
 const pageForm = document.querySelector("form.contact-us");
-pageForm.addEventListener(event, () => {
-    event.preventDefault();
+pageForm.addEventListener(click(), (e) => {
+    e.preventDefault();
     console.log("Hello, World");
 })
